@@ -40,4 +40,6 @@ public class LinkServiceImpl implements ILinkService {
     }
 
 
+    public static interface ICategoryService {
+    }
 }
