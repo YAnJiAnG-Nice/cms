@@ -1,7 +1,6 @@
 package com.briup.cms.web.controller;
 
 import com.briup.cms.bean.Article;
-import com.briup.cms.dao.IArticleDao;
 import com.briup.cms.service.IArticleService;
 import com.briup.cms.util.Message;
 import com.briup.cms.util.MessageUtil;
