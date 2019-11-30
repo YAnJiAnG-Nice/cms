@@ -57,8 +57,8 @@ public Docket createRestApi() {
 	private ApiInfo apiInfo() {
 		return new ApiInfoBuilder()
 				.title("看点咨询")
-				.description("昆山杰普软件科技有限公司，http://www.briup.com")
-				.termsOfServiceUrl("http://www.briup.com")
+				.description("BoosOK件科技有限公司，http://www.BossOK.com")
+				.termsOfServiceUrl("http://www.BossOK.com")
 				.version("1.0 ")
 				.build();
 	}
